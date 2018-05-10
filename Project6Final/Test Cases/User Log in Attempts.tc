@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Both attempts will be made here
+1- Incorrect
+2- Correct</description>
+   <name>User Log in Attempts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff6752cb-c587-48c6-a5b5-c044fb15bf8e</testCaseGuid>
+</TestCaseEntity>
